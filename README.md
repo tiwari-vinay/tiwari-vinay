@@ -1,4 +1,4 @@
-###👋 Hi, I'm @tiwari-vinay 
+### 👋 Hi, I'm @tiwari-vinay 
 
 - 🌱 I’m currently learning system design and full stack development.
 - 👀 I’m interested in creating and conributing to open source projects.
